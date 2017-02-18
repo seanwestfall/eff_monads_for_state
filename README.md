@@ -1,4 +1,4 @@
-# eff_monads_for_state
+# The Eff Monads for State
 Using PureScript's Eff Monad to Handle States in Scaling Web Applications
 By Sean Westfall
 
